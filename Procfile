@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n grok
+web: bin/hubot -a slack -n Hubot
